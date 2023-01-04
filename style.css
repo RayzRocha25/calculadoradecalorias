@@ -1,0 +1,7 @@
+body{
+  background-color: lightslategray
+};
+
+.card col-lg-7{
+box-shadow: -20px -15px 5px rgb(16, 3, 117);
+};
